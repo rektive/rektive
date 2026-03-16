@@ -12,7 +12,7 @@ Dedicated Software Development student with a specialized focus on high-performa
 | **Languages** | C++, JavaScript (ES6+), SQL, CSS3, HTML5 |
 | **Backend** | Node.js, Express.js, RESTful API Development |
 | **Frontend** | React, Responsive Web Design |
-| **Database** | MongoDB (NoSQL), Advanced Database Management |
+| **Database** | MongoDB, SQL, Advanced Database Management |
 | **Tools** | Git, Jira, Linux Environment, Discord API |
 
 ---
