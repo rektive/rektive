@@ -52,4 +52,3 @@ My technical work is underpinned by over seven years of professional experience 
 ### Contact Information
 
 * **Email:** zhuravlovnick@gmail.com
-* **Location:** Richmond Hill / Toronto, Ontario
