@@ -1,7 +1,7 @@
 # Nikita Zhuravlov
 **Software Development Student | Seneca Polytechnic**
 
-Dedicated Software Development student with a specialized focus on high-performance systems engineering and full-stack architecture. I leverage a background in professional competitive athletics to bring extreme discipline, precision, and a goal-oriented mindset to software solutions.
+Software Development student with a specialized focus on high-performance systems engineering and full-stack architecture. I leverage a background in professional competitive athletics to bring extreme discipline, precision, and a goal-oriented mindset to software solutions.
 
 ---
 
