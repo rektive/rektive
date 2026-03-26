@@ -9,7 +9,7 @@ Software Development student with a specialized focus on high-performance system
 
 | Category | Technologies and Frameworks |
 | :--- | :--- |
-| **Languages** | C++, JavaScript (ES6+), SQL, CSS3, HTML5 |
+| **Languages** | JavaScript (ES6+), SQL, CSS3, HTML5, C++, Python |
 | **Backend** | Node.js, Express.js, RESTful API Development |
 | **Frontend** | React, Responsive Web Design |
 | **Database** | MongoDB, SQL, Advanced Database Management |
