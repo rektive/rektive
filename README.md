@@ -36,15 +36,8 @@ Software Development student with a specialized focus on high-performance system
 
 ---
 
-### Unique Distinctions
-
-My technical work is underpinned by over seven years of professional experience in ballroom dancing. As a multi-time national champion in both Canada and Ukraine, I apply the same level of rigorous training, technical accuracy, and stamina required in professional sports to the development of complex software systems.
-
----
-
 ### GitHub Portfolio Metrics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rektive&show_icons=true&hide_border=true&count_private=true&theme=default)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rektive&layout=compact&hide_border=true&theme=default)
 
 ---
