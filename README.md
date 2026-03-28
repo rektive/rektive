@@ -19,21 +19,20 @@ Software Development student specializing in modern web architecture and scalabl
 
 ### 🚀 Professional Profile
 
-* **Full-Stack Engineering:** Experience in building scalable web applications using the MERN stack (MongoDB, Express, React, Node) to solve real-world inventory and data challenges[cite: 5, 13, 14].
-* **Systems Logic:** Proficient in Object-Oriented Programming (OOP) and system design, with experience developing high-performance command-line engines in C++[cite: 4, 15, 16].
-* **Project Management:** Utilizing Jira for Agile workflows, user story documentation, and defining technical acceptance criteria[cite: 11, 12].
-* **Technical Operations:** Experience troubleshooting mobile application issues and optimizing time-sensitive logistics in high-pressure environments[cite: 30, 31, 32].
+* **Full-Stack Engineering:** Experience in building scalable web applications using the MERN stack (MongoDB, Express, React, Node) to solve real-world inventory and data challenges.
+* **Systems Logic:** Proficient in Object-Oriented Programming (OOP) and system design, with experience developing high-performance command-line engines in C++.
+* **Project Management:** Utilizing Jira for Agile workflows, user story documentation, and defining technical acceptance criteria.
+* **Technical Operations:** Experience troubleshooting mobile application issues and optimizing time-sensitive logistics in high-pressure environments.
 
 ---
 
 ### 🎓 Education
 
 * **Seneca Polytechnic** | Toronto, ON
-    * **Bachelor of Software Development (BSD)** | [cite_start]2024 – Present [cite: 23, 24]
+    * **Bachelor of Software Development (BSD)** | 2024 – Present
     * Relevant Coursework: Advanced Database Systems, C++, Business Requirements Management.
 
 ---
 
 ### 📫 Contact Information
-* [cite_start]**Email:** zhuravlovnick@gmail.com [cite: 3]
-* [cite_start]**Location:** Richmond Hill / Toronto, ON [cite: 2]
+* **Email:** zhuravlovnick@gmail.com
