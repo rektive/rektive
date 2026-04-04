@@ -1,7 +1,7 @@
 # Nikita Zhuravlov
 **Full-Stack Developer | Bachelor of Software Development Candidate @ Seneca Polytechnic**
 
-Software Development student specializing in modern web architecture and scalable backend systems[cite: 4]. [cite_start]I am driven by technical precision and building real-time, high-performance applications using the **MERN stack**[cite: 5].
+Software Development student specializing in modern web architecture and scalable backend systems. I am driven by technical precision and building real-time, high-performance applications using the **MERN stack**.
 
 ---
 
