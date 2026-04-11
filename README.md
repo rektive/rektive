@@ -15,9 +15,9 @@ Software Development student specializing in modern web architecture and scalabl
 
 ### 🚀 Key Projects
 
-* **Vehicle Reservation System:** A full-stack MERN application featuring secure authentication and real-time inventory management.
-* **Library Discovery Platform:** A responsive Next.js application utilizing SWR to extract data from the Open Library REST API.
+* **Libify**: A decoupled full-stack archive featuring secure JWT-based authentication and persistent MongoDB collection management.
 * **Automated Utility Bot:** An event-driven Node.js engine developed to automate server moderation and API data processing.
+* **Vehicle Reservation System:** A full-stack MERN application featuring secure authentication and real-time inventory management.
 
 ---
 
