@@ -2,14 +2,14 @@
 **Full-Stack Developer | Bachelor of Software Development Candidate @ Seneca Polytechnic**
 ---
 
-### 🛠️ Technical Stack
+### Technical Stack
 
 **Frontend & Backend** ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 
 **Languages & Tools**  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 
 ---
-### 🎓 Education & Experience
+### Education & Experience
 
 * **Bachelor of Software Development (BSD)** | Seneca Polytechnic | 2024 – Present 
 * **Logistics & Technical Support** | Richmond Hill, ON | 2024 – Present
@@ -17,7 +17,7 @@
 
 ---
 
-### 📫 Contact Information
+### Contact Information
 
 * **Email:** zhuravlovnick@gmail.com
 * **Languages:** Fluent in English, Ukrainian, and Russian
