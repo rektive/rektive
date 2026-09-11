@@ -9,15 +9,6 @@
 **Languages & Tools**  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 
 ---
-
-### 🚀 Key Projects
-
-* **Libify**: A decoupled full-stack archive featuring secure JWT-based authentication and persistent MongoDB collection management.
-* **Automated Utility Bot:** An event-driven Node.js engine developed to automate server moderation and API data processing.
-* **Vehicle Reservation System:** A full-stack MERN application featuring secure authentication and real-time inventory management.
-
----
-
 ### 🎓 Education & Experience
 
 * **Bachelor of Software Development (BSD)** | Seneca Polytechnic | 2024 – Present 
