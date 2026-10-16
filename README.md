@@ -11,9 +11,9 @@
 ---
 ### Education & Experience
 
-* **Bachelor of Software Development (BSD)** | Seneca Polytechnic | 2024 – Present 
-* **Logistics & Technical Support** | Richmond Hill, ON | 2024 – Present
-    * Optimizing delivery routes and troubleshooting mobile application issues to maintain service uptime.
+* **Bachelor of Software Development (BSD)** | Seneca Polytechnic | 2024 – 2028(Expected)
+* **Firewatch Inspector** at Frontier Petroleum | Toronto, ON | 2026 - Present 
+* **Logistics & Technical Support** at DoorDash| Richmond Hill, ON | 2024 – Present
 
 ---
 
