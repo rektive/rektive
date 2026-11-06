@@ -52,6 +52,25 @@
 
 ---
 
+### Featured Projects
+
+#### **Wi-Fi RF Presence Radar** | `Python` `JavaScript` `Linux Networking` *(Oct 2026)*
+* Developed a real-time motion detection system utilizing 802.11 monitor mode packet capture to analyze RF multipath signals without dedicated radar hardware.
+* Configured raw network socket capture and automated network adapter isolation using Linux kernel tools (`iw`, `iproute2`, `nmcli`) to preserve concurrent internet connectivity.
+
+#### **Library Management System** | `Next.js` `Express.js` `MongoDB` *(Apr 2026)*
+* Developed a full-stack web app with a Next.js frontend and Express.js REST API supporting user registration, authentication, browsing, and favorites.
+* Implemented authentication using JWT, designed MongoDB schemas via Mongoose, and built dynamic search/filtering in React.
+
+#### **Restaurant Management System** | `C++` *(Mar 2026)*
+* Built a command-line restaurant POS system using OOP principles (encapsulation, abstract classes, inheritance, polymorphism).
+* Managed dynamic memory strictly adhering to the Rule of Three to prevent leaks and dangling pointers.
+* Engineered complete billing logic, pricing calculations, tax computation, and robust input validation.
+
+#### **Automated Discord Bot** | `Node.js` `Discord.js` `JavaScript` *(Dec 2025)*
+* Built an event-driven bot with slash command handling and real-time SoundCloud voice channel audio streaming.
+* Implemented dynamic playback queues, error recovery routines, interactive rich embed UI controls, and deployed in a high-reliability local runtime environment.
+
 ### Contact Information
 
 * **Email:** zhuravlovnick@gmail.com
