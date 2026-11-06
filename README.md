@@ -52,14 +52,12 @@
 * Built an event-driven bot with slash command handling and real-time SoundCloud voice channel audio streaming.
 * Implemented dynamic playback queues, error recovery routines, interactive rich embed UI controls, and deployed in a high-reliability local runtime environment.
 ---
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rektive&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Nikita's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rektive&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
 
 ### Contact Information
 
 * **Email:** zhuravlovnick@gmail.com
 * **Languages:** Fluent in English, Ukrainian, and Russian
+--- 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=rektive&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
