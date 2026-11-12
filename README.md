@@ -57,7 +57,3 @@
 
 * **Email:** zhuravlovnick@gmail.com
 * **Languages:** Fluent in English, Ukrainian, and Russian
---- 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=rektive&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
