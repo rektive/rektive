@@ -35,7 +35,7 @@
 
 ### Projects
 
-#### **Wi-Fi RF Presence Radar** | `Python` `JavaScript` `Linux Networking` *(Oct 2026)*
+#### **Wi-Fi Radar** | `Python` `JavaScript` `Linux Networking` *(Oct 2026)*
 * Developed a real-time motion detection system utilizing 802.11 monitor mode packet capture to analyze RF multipath signals without dedicated radar hardware.
 * Configured raw network socket capture and automated network adapter isolation using Linux kernel tools (`iw`, `iproute2`, `nmcli`) to preserve concurrent internet connectivity.
 
